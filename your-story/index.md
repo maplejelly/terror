@@ -1,5 +1,5 @@
 ---
-title: Forest
+title: A Pretty Terrifying Project
 author: Fred Gibbs
 layout: scrollstory
 date: 2025-07-21
@@ -9,7 +9,7 @@ header-image: images/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
 header-title: The Forest
 header-eyebrow: ScrollStory Demo
 header-divider: ✦ ✦ ✦
-header-subtitle: every component, one essay
+header-subtitle: Examining Feminist Theme Co-occurrences Across Horror Video Games
 header-caption: Photo by <a href="https://unsplash.com/@sebastian_unrau">Sebastian Unrau</a> on <a href="https://unsplash.com">Unsplash</a>
 header-position: 0px
 toc-section: piano
