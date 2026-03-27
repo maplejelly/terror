@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2025-07-21
 thumbnail: images/forest.jpg
 summary: The kitchen sink of demos. This essay showcases every ScrollStory component — background switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and more.
-header-image: images/daniel-jensen-NMk1Vggt2hg-unsplash
+header-image: images/daniel-jensen-NMk1Vggt2hg-unsplash.jpg
 header-title: A Pretty Terrifying Project
 header-eyebrow: Digital Humanities Project
 header-divider: ✦ ✦ ✦
