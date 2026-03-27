@@ -59,7 +59,7 @@ The key to Forest essays is knowing when to use which tool. Not every moment nee
 ## Juxtapose: Before/After Comparisons
 Below you'll see a **juxtapose component**—an interactive slider that lets readers compare two images by dragging a handle left and right.
 
-{% include images/chart.html
+{% include images/chartone.html
   caption="Drag the slider to compare two forest scenes — mist vs. dappled light. The starting position is set to 35% so readers see more of the second image initially."
 %}
 
